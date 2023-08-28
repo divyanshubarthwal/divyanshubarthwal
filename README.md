@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyanshubarthwal" alt="divyanshubarthwal" /></a> </p>
 
-- 🔭 I’m currently working on [Selenium using Cucumber framework](https://github.com/divyanshubarthwal/Selenium_cucumber)
+- 🔭 I’m currently working on [REST ASSURED](https://github.com/divyanshubarthwal/RestAssured_JAVA)
 
-- 🌱 I’m currently learning **Appium**
+- 🌱 I’m currently practicing **REST ASSURED**
 
 - 👨‍💻 All of my projects are available at [github.com/divyanshubarthwal](github.com/divyanshubarthwal)
 
